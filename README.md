@@ -21,7 +21,7 @@ So. You can:
 >How do I obtain the ship?
 
 So. You need to `right-click` to **the beacon** with **the saddle** in `main-hand` and **the elytra** in `off-hand` in this structure: 
-![Structure](MFII/imgs/2023-01-29_18.png)
+![Structure](MFII/imgs/2023-01-29_18.58.17.png)
 
 >How can I travel between dimensions using my ship?
 
