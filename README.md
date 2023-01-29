@@ -28,7 +28,7 @@ So. You need to `right-click` to **the beacon** with **the saddle** in `main-han
 So. You need a specific item: **the Teleportation Module**. You should *store* dimension into this by `right-clicking` to the block while you're in this dimension
 ![](MFII/imgs/) ![](MFII/imgs/2023-01-30_00.02.26.png)
 Then you should take **the Teleporation Module** in `off-hand`. Tap the `teleportation button`(you can setup it in settings) while you are piloting the ship and *bada-boom*: you are in the other dimension! 
-![Travelling](MFII/imgs/172/2023-01-29_19.png) ![Travelling2](MFII/imgs/2023-01-29_19.04.31.png)
+![Travelling](MFII/imgs/172/2023-01-30_00.02.18.png) ![Travelling2](MFII/imgs/2023-01-29_19.04.31.png)
 
 >How do I customize my ship?
 
