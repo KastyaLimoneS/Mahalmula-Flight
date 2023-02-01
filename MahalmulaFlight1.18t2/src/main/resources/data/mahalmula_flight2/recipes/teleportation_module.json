@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#o#",
+    "#*#",
+    "#_#"
+  ],
+  "key": {
+    "#" : {"item":  "minecraft:obsidian"},
+    "o" : {"item":  "minecraft:ender_eye"},
+    "*" : {"item":  "minecraft:map"},
+    "_" : {"item":  "minecraft:netherite_ingot"}
+  },
+  "result": {"item":  "mahalmula_flight2:teleportation_module"}
+}

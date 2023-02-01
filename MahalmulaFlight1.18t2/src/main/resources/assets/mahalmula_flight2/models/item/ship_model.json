@@ -1,0 +1,33 @@
+{
+	"parent": "mahalmula_flight2:item/base_ship",
+	"overrides": [
+		{
+			"predicate": {"mahalmula_flight2:skin": 0},
+			"model": "mahalmula_flight2:item/reskins/ender_ship"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 1},
+			"model": "mahalmula_flight2:item/reskins/aqua_ship"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 2},
+			"model": "mahalmula_flight2:item/reskins/nether_ship"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 3},
+			"model": "mahalmula_flight2:item/reskins/wooden_ship"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 4},
+			"model": "mahalmula_flight2:item/reskins/cheese_ship"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 5},
+			"model": "minecraft:block/cauldron"
+		},
+		{
+			"predicate": {"mahalmula_flight2:skin": 6},
+			"model": "mahalmula_flight2:item/reskins/tardis_model"
+		}
+	]
+}
