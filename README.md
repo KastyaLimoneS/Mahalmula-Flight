@@ -47,3 +47,8 @@ Don't worry! You can repair it with ender eyes!
 |      Fuel Leak       | Dragon's Breath  |
 |  Navigation Schemes  |     Compass      |
 
+>I've just created a ship, but I can't fly.
+It just don't move!
+
+So. You should put **the Core Of Mahalmula's Ship** into your
+Ender Chest Inventory. Now, you can fly.
